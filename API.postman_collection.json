@@ -1,0 +1,267 @@
+{
+	"info": {
+		"_postman_id": "4b75fef9-e2c3-4e0d-a842-1bd36947b797",
+		"name": "API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43265633"
+	},
+	"item": [
+		{
+			"name": "POST 1",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"id\": 1,\r\n    \"name\": \"Ali\",\r\n    \"surname\": \"Karimov\",\r\n    \"classname\": \"N-20\",\r\n    \"coursename\": \"IT\",\r\n    \"yoshi\": 17,\r\n    \"filiali\": \"Farg'ona\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/oquvchilar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"oquvchilar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST 2",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"id\": 1,\r\n    \"name\": \"Ali\",\r\n    \"surname\": \"Karimov\",\r\n    \"classname\": \"N-20\",\r\n    \"coursename\": \"IT\",\r\n    \"yoshi\": 17,\r\n    \"filiali\": \"Farg'ona\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/oquvchilar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"oquvchilar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST 3",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"id\": 1,\r\n    \"name\": \"Ali\",\r\n    \"surname\": \"Karimov\",\r\n    \"classname\": \"N-20\",\r\n    \"coursename\": \"IT\",\r\n    \"yoshi\": 17,\r\n    \"filiali\": \"Farg'ona\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/oquvchilar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"oquvchilar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST 4",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"id\": 1,\r\n    \"name\": \"Ali\",\r\n    \"surname\": \"Karimov\",\r\n    \"classname\": \"N-20\",\r\n    \"coursename\": \"IT\",\r\n    \"yoshi\": 17,\r\n    \"filiali\": \"Farg'ona\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/oquvchilar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"oquvchilar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST 5",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"id\": 1,\r\n    \"name\": \"Ali\",\r\n    \"surname\": \"Karimov\",\r\n    \"classname\": \"N-20\",\r\n    \"coursename\": \"IT\",\r\n    \"yoshi\": 17,\r\n    \"filiali\": \"Farg'ona\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/oquvchilar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"oquvchilar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST 6",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"id\": 1,\r\n    \"name\": \"Ali\",\r\n    \"surname\": \"Karimov\",\r\n    \"classname\": \"N-20\",\r\n    \"coursename\": \"IT\",\r\n    \"yoshi\": 17,\r\n    \"filiali\": \"Farg'ona\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/oquvchilar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"oquvchilar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST 7",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "    {\r\n    \"id\": 1,\r\n    \"name\": \"Ali\",\r\n    \"surname\": \"Karimov\",\r\n    \"classname\": \"N-20\",\r\n    \"coursename\": \"IT\",\r\n    \"yoshi\": 17,\r\n    \"filiali\": \"Farg'ona\"\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/oquvchilar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"oquvchilar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET ALL",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET YOSHI",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET FILIALI",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PUT",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"yoshi\": 14,\r\n    \"filiali\": \"Chilonzor\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/oquvchilar/3",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"oquvchilar",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

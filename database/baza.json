@@ -1,0 +1,65 @@
+[
+    {
+    "id": 1,
+    "name": "Ali",
+    "surname": "Karimov",
+    "classname": "N-20",
+    "coursename": "IT",
+    "yoshi": 17,
+    "filiali": "Farg'ona"
+    },
+    {
+    "id": 2,
+    "name": "Dilorom",
+    "surname": "Islomova",
+    "classname": "N-19",
+    "coursename": "SMM",
+    "yoshi": 21,
+    "filiali": "Xadra"
+    },
+    {
+    "id": 3,
+    "name": "Jamshid",
+    "surname": "Sobirov",
+    "classname": "N-21",
+    "coursename": "QA",
+    "yoshi": 20,
+    "filiali": "Samarqand"
+    },
+    {
+    "id": 4,
+    "name": "Malika",
+    "surname": "Shamsieva",
+    "classname": "N-20",
+    "coursename": "SMM",
+    "yoshi": 25,
+    "filiali": "Farg'ona"
+    },
+    {
+    "id": 5,
+    "name": "Bekzod",
+    "surname": "Nurmatov",
+    "classname": "N-19",
+    "coursename": "QA",
+    "yoshi": 22,
+    "filiali": "Chilonzor"
+    },
+    {
+    "id": 6,
+    "name": "Sevinch",
+    "surname": "Yusupova",
+    "classname": "N-21",
+    "coursename": "IT",
+    "yoshi": 19,
+    "filiali": "Xadra"
+    },
+    {
+    "id": 7,
+    "name": "Tohir",
+    "surname": "Qodirov",
+    "classname": "N-20",
+    "coursename": "QA",
+    "yoshi": 12,
+    "filiali": "Samarqand"
+    }      
+]
